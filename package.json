@@ -1,0 +1,8 @@
+{
+  "name": "stanza-infinita",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Stanza di specchi infiniti navigabile in 3D, con galleria, voti e visore.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
